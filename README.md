@@ -1,2 +1,6 @@
-# bard-interactive-presenter
-Real-time interactive presentation web app built with Vue 3 and Go, supporting live audience participation via QR codes and WebSockets.
+# Interactive Presentation Platform
+
+A real-time interactive presentation web application that allows presenters to engage audiences through live polls and instant feedback using QR codes.
+
+Participants can join presentations instantly on their mobile devices without authentication, while presenters receive real-time results during the session.
+
