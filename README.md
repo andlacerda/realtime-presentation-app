@@ -1,4 +1,4 @@
-# BARD - Interactive Presentation Platform
+# Realtime Presentation App
 
 A real-time interactive presentation web application that allows presenters to engage audiences through live polls and instant feedback using QR codes.
 
